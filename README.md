@@ -2,6 +2,6 @@
 Aplikasi latihan soal dan pembahasan soal ujian nasional SMP berbasis android yang diharapkan menjadi alternatif bagi siswa SMP yang akan menghadapi ujian nasional dengan mendapatkan latihan soal dan pembahasan soal yang mudah dipahami dan dapat diakses secara mudah dan cepat.
 
 # Tampilan Aplikasi
-Tampilan menu Bahasa Indonesia
-![2](https://user-images.githubusercontent.com/68157923/102492976-0bff6300-40a5-11eb-80fe-b6ca6a4d8f7c.png) 
+1. Tampilan Menu Utama dan Menu Soal Matematika 1-2.
 
+![1](https://user-images.githubusercontent.com/68157923/102499648-04908780-40ae-11eb-9721-07a24d922f38.PNG)
