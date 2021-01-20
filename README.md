@@ -1,3 +1,21 @@
+# Weight Tracker
+
+## Author
+
+Katelin Frederick 2019
+
+## Table of Contents
+* [About this Project](#about-this-project)
+* [Goal of this Project](#goal-of-this-project)
+* [Installation](#installation)
+* [Technologies](#technologies)
+* [What I learned](#what-i-learned)
+* [Demos](#demos)
+
+## About this Project
+Web application that allows the user to track certain aspects of the users fitness.  Charts users weight on a given date using Chart.js as well as the amount of calories the user consumed on a given date.  Calculates the users BMI and caloric needs.
+
+
 # Project1
 Aplikasi latihan soal dan pembahasan soal ujian nasional SMP berbasis android yang diharapkan menjadi alternatif bagi siswa SMP yang akan menghadapi ujian nasional dengan mendapatkan latihan soal dan pembahasan soal yang mudah dipahami dan dapat diakses secara mudah dan cepat.
 
