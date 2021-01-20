@@ -38,15 +38,16 @@ Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menja
 <img src="(https://user-images.githubusercontent.com/68157923/105151569-b05b4600-5b38-11eb-84eb-40d5643d28e1.gif)" width="240" height="460"/>
 
 
-
-
-
+### cccc
 
 <img src="gif" width="240" height="460"/>
 
-# Project1
-Aplikasi latihan soal dan pembahasan soal ujian nasional SMP berbasis android yang diharapkan menjadi alternatif bagi siswa SMP yang akan menghadapi ujian nasional dengan mendapatkan latihan soal dan pembahasan soal yang mudah dipahami dan dapat diakses secara mudah dan cepat.
 
-7. Tampilan Alert dialog Exit
+### cccc
 
-<img src="https://user-images.githubusercontent.com/68157923/102504664-b088a180-40b3-11eb-9422-fccceb59d49c.PNG" width="230" height="400"/>
+<img src="gif" width="240" height="460"/>
+
+
+### cccc
+
+<img src="gif" width="240" height="460"/>
