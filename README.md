@@ -10,7 +10,7 @@ Gusti Putu Rudi Pratama 2021
 * [Demos](#demos)
 
 ## About this Project
-Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menjadi alternatif bagi siswa/siswi tingkat Sekolah Menengah Pertama (SMP) yang akan menghadapi ujian dengan mendapatkan latihan soal dan pembahasan soal yang mudah dipahami dan dapat diakses secara mudah dan cepat.
+Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menjadi alternatif bagi siswa/siswi tingkat Sekolah Menengah Pertama (SMP) khususnya kelas 9 yang akan menghadapi ujian dengan mendapatkan latihan soal dan pembahasan soal yang mudah dipahami dan dapat diakses secara mudah dan cepat.
 
 ## Technologies
 * Android Studio
