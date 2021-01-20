@@ -28,14 +28,14 @@ Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menja
 <img src="https://user-images.githubusercontent.com/68157923/105146879-07f6b300-5b33-11eb-8505-6d7b94d310b1.gif" width="240" height="460"/> <img src="https://user-images.githubusercontent.com/68157923/105147146-573ce380-5b33-11eb-81e7-718c5d3b9ce0.gif" width="240" height="460"/>
 
 
-### Adding new daily calorie intake:
+### Hasil Nilai -> Pembahasan
 
-<img src="gif" width="240" height="460"/>
+<img src="(https://user-images.githubusercontent.com/68157923/105150163-fdd6b380-5b36-11eb-90ce-30d4ad7032a6.gif)" width="240" height="460"/>
 
 
-### BMI and Caloric Needs Calculators
+### Hasil Nilai -> Ulangi Latihan Soal
 
-<img src="gif" width="240" height="460"/>
+<img src="(https://user-images.githubusercontent.com/68157923/105147937-6708f780-5b34-11eb-8df8-b543fa8bbf45.gif)" width="240" height="460"/>
 
 
 
