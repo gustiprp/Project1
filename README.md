@@ -28,19 +28,19 @@ Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menja
 <img src="https://user-images.githubusercontent.com/68157923/105146879-07f6b300-5b33-11eb-8505-6d7b94d310b1.gif" width="240" height="460"/> <img src="https://user-images.githubusercontent.com/68157923/105147146-573ce380-5b33-11eb-81e7-718c5d3b9ce0.gif" width="240" height="460"/>
 
 
-### Hasil Nilai :arrow_right: Pembahasan
+### Hasil Nilai :arrow_right: Menu Pembahasan :arrow_right: Pembahasan Soal
 
 <img src="https://user-images.githubusercontent.com/68157923/105153797-6b84de80-5b3b-11eb-9550-6e49f39005e3.gif" width="240" height="460"/>
 
 
 ### Hasil Nilai :arrow_right: Ulangi Latihan Soal
 
-<img src="gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105153982-9ec76d80-5b3b-11eb-94c4-404870752776.gif" width="240" height="460"/>
 
 
-### cccc
+### Hasil Nilai :arrow_right: Halaman Utama
 
-<img src="gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105154117-c9192b00-5b3b-11eb-95ca-a81c36ef6d92.gif" width="240" height="460"/>
 
 
 ### cccc
