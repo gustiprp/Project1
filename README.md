@@ -2,7 +2,7 @@
 
 ## Author
 
-Gusti Putu Rudi Pratama 2021
+Gusti Putu Rudi Pratama 2020
 
 ## Table of Contents
 * [About this Project](#about-this-project)
