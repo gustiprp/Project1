@@ -7,7 +7,6 @@ Gusti Putu Rudi Pratama 2021
 ## Table of Contents
 * [About this Project](#about-this-project)
 * [Technologies](#technologies)
-* [What I learned](#what-i-learned)
 * [Demos](#demos)
 
 ## About this Project
@@ -18,13 +17,10 @@ Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menja
 * Java
 * XML
 
-## What I learned
-I learned how to use the Chart.js library in a React Application.  I also became more comfortable setting up a database with MongoDB and creating routes.
-
 ## Demos
-### SignUp:
+### Tampilan Awal Aplikasi
 
-![Sign Up](demos/weightSignup.gif)
+<img src="https://user-images.githubusercontent.com/68157923/105144395-c4e71080-5b2f-11eb-998e-6bf643147c9e.gif" width="240" height="460"/>
 
 
 ### Adding a new weight:
@@ -48,7 +44,7 @@ Aplikasi latihan soal dan pembahasan soal ujian nasional SMP berbasis android ya
 # Contoh Tampilan Aplikasi
 1. Tampilan menu utama dan menu soal Matematika 1-2.
 
-<img src="https://user-images.githubusercontent.com/68157923/102503031-e2990400-40b1-11eb-9945-c6a4f48b603b.PNG" width="430" height="400"/>
+
 
 2. Tampilan latihan soal Matematika 1 (teks) dan Matematika 2 (dengan gambar)
 
