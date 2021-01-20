@@ -18,14 +18,14 @@ Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menja
 * XML
 
 ## Demos
-### Tampilan Awal Aplikasi
+### Tampilan Awal Masuk Aplikasi
 
 <img src="https://user-images.githubusercontent.com/68157923/105144395-c4e71080-5b2f-11eb-998e-6bf643147c9e.gif" width="240" height="460"/>
 
 
-### Adding a new weight:
+### Tampilan Latihan Soal (Teks-Gambar)
 
-<img src="gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105146879-07f6b300-5b33-11eb-8505-6d7b94d310b1.gif" width="240" height="460"/> <img src="https://user-images.githubusercontent.com/68157923/105147146-573ce380-5b33-11eb-81e7-718c5d3b9ce0.gif" width="240" height="460"/>
 
 
 ### Adding new daily calorie intake:
