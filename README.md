@@ -30,7 +30,7 @@ Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menja
 
 ### Hasil Nilai -> Pembahasan
 
-<img src="gif" width="240" height="460"/>
+<img src="(https://user-images.githubusercontent.com/68157923/105152907-5f4c5180-5b3a-11eb-8eea-1464629f562a.gif)" width="240" height="460"/>
 
 
 ### Hasil Nilai -> Ulangi Latihan Soal
