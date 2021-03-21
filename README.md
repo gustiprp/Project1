@@ -7,7 +7,7 @@ Gusti Putu Rudi Pratama 2020
 ## Table of Contents
 * [About this Project](#about-this-project)
 * [Technologies](#technologies)
-* [Demos](#demos)
+* [Demo](#demo)
 
 ## About this Project
 Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menjadi alternatif bagi siswa/siswi tingkat Sekolah Menengah Pertama (SMP) khususnya kelas 9 yang akan menghadapi ujian dengan mendapatkan latihan soal dan pembahasan soal yang mudah dipahami dan dapat diakses secara mudah dan cepat.
@@ -17,7 +17,7 @@ Aplikasi latihan soal dan pembahasan soal berbasis android yang diharapkan menja
 * Java
 * XML
 
-## Demos
+## Demo
 ### Awal Masuk Aplikasi:
 
 <img src="https://user-images.githubusercontent.com/68157923/105144395-c4e71080-5b2f-11eb-998e-6bf643147c9e.gif" width="240" height="460"/>
