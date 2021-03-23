@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">Latihan Soal UN SMP</string>
+
+    <string name="article_text_mtk">
+        \n
+        8. (- 12) : 3 + 8 × (- 5) = - 4 + (-40) = - 44 \n\n
+9.Hasil dari 1 + 2 + 3 + 4 + ... + 130 = 65 x (1 + 130) = 8515\n
+ Halaman yang belum dihitung  8515 – 8497 = halaman 18 \n\n
+10. Pemb15 pekerja → 12 minggu  a pekerja →  9 minggu maka :  a 15 12 9\n
+    9a  = 180, maka a = 20  Banyak tambahan pekerja adalah 20 – 15 = 5 orang \n\n
+11. \n
+12. Hasil dari 128 232 = 2 6421216 = 2 82124 = 11 2 \n\n
+13. Tabung awal = Rp 800.000,00 Bunga diterima  = Rp 950.000,00 - Rp 800.000,00 = Rp 150.000 \n
+    Bunga 1 Th = 25 % x Rp 800.000,00 = Rp 200.000,00 \n
+ Waktu= bulan bulan rb rb 912 200 150  \n\n
+14. % Pembelian = 100 % . %  Untung=  = 25 % ,  maka   % Penjualan =  125 % \n
+ Harga pembelian = %125 %100 x Rp. 500.000,00 = Rp400.000,00 \n\n
+15. 20.    17.    13.   8.   2.    –5...     \n
+ –3     –4    –5     –6    –7 ... \n\n
+    </string>
+
+    <string name="article_text_mtk2">
+        \n
+    1. Gradien garis = 6/2 = 3, Garis memotong sumbu y di (0,6), maka: Maka persamaan garisnya y = 3x + 6.  Sehingga rumus fungsinya  adalah   f(x) = 3x+6 ...(D)\n
+    2.  \n
+    </string>
+
+    <string name="article_text_ipa">
+\n
+1.  Perubahan fisika adalah suatu perubahan zat yang tidak menghasilkan zat jenis baru. \n
+         Nomor 1 dan 3 menimbulkan zat jenis baru, sedangkan nomor 2, 4, dan 5 TIDAK menimbulkan zat baru. \n\n
+
+        2. Dik : m = 4 kg \n
+F = 8 N \n
+Dit. Percepatan (a) ? \n
+F = m.a \n
+a = F / m \n
+a = 8 m / 4 kg \n
+a = 2 m/s² \n\n
+
+        3.  Campuran adalah percampuran antara dua senyawa atau lebih. \n
+ Sifat-sifat senyawa dalam campuran masih eksis, karena senyawa-senyawa dalam campuran tidak terjadi reaksi kimia. \n
+ Udara adalah percampuran dari berbagai gas, air laut campuran antara air dengan mineral mineral dan senyawa- senyawa lainnya. \n\n
+
+        4. S = 600 m ; VA = 10 m/s ; VB = 15 m/s \n
+(VA x t) + (VB x t) = 600 \n
+10t + 15t = 600 \n
+25 t = 600 \n
+t = 600/25 \n
+= 24 \n
+Maka pada detik ke 24 mobil A dan mobil B saling berpapasan. \n\n
+
+        5.  Pernyataan 1: “Merkurius merupan Planet paling kecil” BENAR. \n
+ Pernyataan 2: “Sabuk Asteroid terletak antara palnet Mars dan Bumi” SALAH, karena ASTEROID terletak antara MARS dan JUPITER. \n
+ Pernyataan 3: “Venus adalah planet yang paling dekat dengan bumi“ BENAR. \n
+ Pernyataan 4: Uranus terkenal sebagai planet bercincin SALAH, karena planet yang terkenal bercincin adalah SATURNUS. \n
+ Jadi pernyataan yang BENAR adalah 1 dan 3. \n\n
+
+        6. Zat Padat : \n
+- Susunan partikelnya teratur, berdekatan \n
+- Gaya tarik menariknya antar partikelnya sangat kuat \n
+- Partikelnya tidak dapat bergerak dengan bebas \n
+- Bentuk dan volume tetap \n\n
+Zat Cair : \n
+- Susunan partikelnya kurang teratur, agak berjauhan \n
+- Gaya tarik menariknya antar partikelnya kurang kuat \n
+- Partikelnya dapat bergerak dengan bebas tetapi tidak dapat meninggalkan kelompoknya \n
+- Bentuk berubah dan volume tetap \n\n
+Zat Gas : \n
+- Susunan partikelnya sangat tidak teratur, sangat berjauhan \n
+- Gaya tarik menariknya antar partikelnya sangat lemah \n
+            - Partikelnya dapat bergerak dengan bebas \n
+- Bentuk dan volume berubah \n\n\n
+
+        7. S = 600 m \n
+VA = 12 m/s \n
+VB = 18 m/s \n\n
+Jarak yang ditempuh mobil A saat bertemu dengan mobil B ? \n
+(VA x t) + (VB x t) = 600 \n
+12t + 18t = 600 \n
+30 t = 600 \n
+t = 600/30 \n
+= 20 \n\n
+Jadi jarak yang ditempuh mobil A saat bertemu dengan mobil B adalah \n
+S = V x t \n
+S = 12 x 20 = 240 m \n\n\n
+
+        8. Campuran adalah percampuran antara dua senyawa atau lebih lebih. Sifat-sifat senyawa dalam campuran masih eksis atau tidak berubah, karena senyawa-senyawa dalam campuran tidak terjadi reaksi kimia, sehingga dapat bercampur tanpa perbandingan tertentu
+Senyawa adalah gabungan beberapa atom yang terikat secara kimia dengan perbandingan tertentu. \n\n
+
+        9. Klasifikasi makhluk hidup merupakan cara pengelompokkan makhluk hidup berdasarkan persamaan dan perbedaan ciri yang dimiliki makhluk hidup. Semakin banyak perbedaan dari 2 jenis makhluk hidup semakin jauh kekerabatannya. Sebaliknya semakin banyak persamaan dari 2 jenis makhluk hidup semakin dekat kekerabatannya.\n
+            Tujuan klasifikasi makhluk hidup adalah : \n
+             Menyederhanakan obyek studi (makhluk hidup) yang beraneka ragam \n
+             Mengenal berbagai makhluk hidup yang bermaacam-macam \n
+             Mengetahui manfaat masing-masing organisme \n
+             Mengetahui adanya saling ketergantungan antara organisme \n
+             Mengetahui hubungan kekerabatan antar organisme\n
+Jadi klasifikasi makhluk hidup bertujuan untuk mempermudah, mengenali, membandingkan, dan mempelajari makhluk hidup. \n
+Berdasarkan data di atas dinyatakan bahwa ciri dari tumbuhan dikotil adalah: \n
+ Berbiji dua (belah) \n
+ Tulang daun menjari (menyirip) \n
+ Daun tunggal atau majemuk \n
+ Batang dari pangkal ke ujung seperti kerucut, beruas tidak jelas dan berkambium \n
+ Mempunyai akar tunggang \n
+ Berkas pembuluh melingkar \n
+ Terjadi pembuahan ganda \n\n
+
+        10. Pada bagian yang ditunjuk dengan huruf P adalah bagian ovarium. Pada bagian tersebut berfungsi sebagai tempat menghasilkan ovum atau sel telur.\n\n
+
+        11. Jika kita identifikasi bahan kimia yang terdapat pada contoh produk makanan tersebut pada soal adalah: \n
+            sakarin adalah termasuk pemanis sintetis \n
+            karamel: pemanis/pewarna alami\n
+            erytrosin: pewarna merah buatan /sintetis \n
+            NaCl: garam dapur \n
+            Susu Skim nabati:susu yang berasal dari jenis kacang-kacangan yang dibuat skim (bubuk)\n\n
+
+        12. Jika kita identifikasi bahan kimia yang terdapat pada contoh produk makanan tersebut pada soal adalah: \n
+sakarin adalah termasuk pemanis sintetis \n
+karamel: pemanis/pewarna alami \n
+erytrosin: pewarna merah buatan /sintetis \n
+NaCl: garam dapur \n
+Susu Skim nabati: susu yang berasal dari jenis kacang-kacangan yang dibuat skim (bubuk) \n\n
+
+        13. Berdasar pernyataan soal di atas dapat dikatakan bahwa dengan serangga mutan hasil rekayasa genetik telah menyebabkan serangga yang memiliki ketahanan terhadap insektisida sehingga berakibat bahwa boomingnya populasi serangga. Dampak dari meningkatnya jumlah populasi serangga berakibat pada menurunnya budidaya pangan. Hal inipun dapat berdampak pada tidak menunrunnya kualitas keseimbangan ekosistem. \n\n
+
+        14. Fotosintesis adalah proses pembentukan karbohidrat dari karbon dioksida (CO2) dan air (H2O)dengan bantuan sinar matahari. Tumbuhan mampu melakukan fotosintesis karena mempunyai sel-sel yang mengandung klorofil (zat hijau daun). Pada proses fotolisis energi matahari menguraiakan senyawa H2O menjadi senyawa H2 dan O2. Dalam fotosintesis, energi cahaya matahari diserap oleh klorofil dan diubah menjadi energi kimia yang disimpan dalam bentuk karbohidrat atau senyawa organik lainnya. Fotosintesis melibatkan banyak reaksi kimia yang kompleks.Secara sederhana, reaksi kimia yang terjadi pada proses fotosintesis dapat dituliskan sebagai berikut.\n\n
+Karbondioksida (CO2) + Air (H2O) klorofil Gula (C6H12O6)n + Oksigen (O2) \n\n
+Dari reaksi di atas, dapat diketahui syarat-syarat agar berlangsung proses fotosintesis, yaitu sebagai berikut.\n
+a.	Karbon dioksida (CO2), diambil oleh tumbuhan dari udara bebas melalui stomata (mulut daun).\n
+b.	Air, diambil dari dalam tanah oleh akar dan diangkut ke daun melalui pembuluh kayu (xilem).\n
+c.	Cahaya matahari.\n
+d.	Klorofil (zat hijau daun), sebagai penerima energi dari cahaya matahari untuk melangsungkan proses fotosintesis.\n\n\n
+
+        15. P	HHKk	X	hhkk \n
+Hitam-kasar	putih-halus\n
+Gamet: HK,	Hk , hk\n
+F: HhKk (hitam - kasar)\n
+   Hhkk (hitam - halus)\n\n
+
+Jadi dari hasil persilangan diperoleh fenotip F yang berbulu hitam-halus 1 dari 2 varian fenotip sehingga dapat dikatakan bahwa fenotip hitam-halus adalah ½ X 100% = 50%
+        \n\n
+    </string>
+
+    <string name="article_text_ipa2">
+    </string>
+
+    <string name="article_text_pembahasanbahasainggris">
+        \n Pembahasan Soal Bahasa Inggris \n \n
+    1. Kalimat “Attention! .... The story telling competition will be held as usual.” menjelaskan bahwa teks itu berupa pengumuman yang bertujuan memberi informasi pembaca tentang lomba “story telling”. \n\n
+    2. Cukup jelas bahwa pertama kali yang harus dilakukan untuk ikut lomba adalah “enroll for the competition soon” (mendaftar lomba). \n\n
+    3. Dari kalimat “December has come!  It is a special month. The story telling competition will be held as usual.” Menunjukkan bahwa lomba ini diadakan setahun sekali atau annually. \n\n
+    4. Cukup jelas, teks undangan yang tujuannya adalah mengundang untuk hadir di pertemuan. \n\n
+    5. Cukup jelas, hal yang dibahas terdapat pada kalimat “We have some crucial items to discuss: deciding  the date and the place of the celebration, the prizes we will give the winners, etc.” \n\n
+    6. Kalimat “If the meeting fails to make the decision, the celebration will be cancelled.” Menjadi kata kunci yang menunjukkan bahwa crucial berarti sangat penting, sampai-sampai jika pertemuan gagal, program mungkin akan dibatalkan. \n\n
+    7. Sangat jelas diuraikan pada paragraf 2. Kalimat kunci “It’s time for us to be apart.” (ini saatnya kita untuk berpisah). Jadi tujuan ditulisnya teks ini adalah untuk mengucapkan selamat tinggal. \n\n
+    8. Hal yang tak terlupakan oleh penulis adalah ketika Tantri memberikan tempat duduk di hari pertama masuk sekolah. Kalimat kunci “I still remember the first day of school when we were young, you called me and gave me a seat.” \n\n
+    9. Veny mengucapkan terima kasih lewat surat karena teman baiknya (Tantri) sudah tidak tinggal di dekatnya lagi. Kalimat kunci “Now, you’re not here anymore. I would like to thank you .....” \n\n
+    10. Dari teks bisa disimpulkan bahwa Tantri sudah pindah ke Surabaya. \n\n
+    11. Tujuan teks ini adalah bahwa Mr Rendy memberi perintah kepada para pembina pramuka untuk mendampingi siswa melakukan diskusi persiapan camping. Kalimat kunci “I want all scout coaches to lead the dicussion with all the scouts related to a preparation for the next camping activity.” \n\n
+    12. Cukup jelas di paragraf 2 “ ... bring everything they need  like clothes, cooking utensils and food stuff.” \n\n
+    13. Cara memastikan agar diskusi berjalan lancar adalah dengan membagi tanggung jawab pendamping (responsible for ). Ada yang bertanggung jawab mendampingi male scouts, ada yang girl scouts. \n\n
+    14. Secara umum teks membahas tentang Dragonflies and Damselflies yang disebutkan pada awal paragraf 1.\n\n
+    15. Cukup jelas disebutkan pada kalimat topik ”Dragonflies and damselflies live near water”. \n\n
+        </string>
+
+
+    <string name="article_text_pembahasanbahasainggris2">
+          \n Pembahasan Soal Bahasa Inggris2 \n \n
+    1. (B) Cukup jelas, benda yang diiklankan adalah handphone atau mobile phones (telepon yang mudah dibawa.\n\n
+    2. (B) Cukup jelas, ada pada feature “slot microSD up to 16 GB.”\n\n
+    3. (D) Iklan ini hanya berlaku untuk HP Samsung bermerek GT-3322, yang artinya iklan itu hanya berlaku untuk HP merek tertentu / a certain model of handphones. \n\n
+    4. (C) Cukup jelas, teks ini mengiklankan tentang HATAM RESTAURANT.\n\n
+    5. (C) Jenis cuisine utama yang diiklankan adalah fine Persian cuisine, bisa dilihat dibawah nama restoran “Fine Persian Cuisine.”\n\n
+    6. (A) Disebutkan dalam teks “Open 7 days 11.30 .... 9.30 daily.\n\n
+    7. (A) Cukup jelas, benda yang diiklankan adalah laptop. Laptop termasuk portable computer (komputer yang mudah dibawa).\n\n
+    8. (B) Cukup jelas, kata kunci “2 GB main memory”.\n\n
+    9. (D) Pengguna produk ini akan bisa mengetik dengan MS word atau Exeell karena didalam spesifikasinya tercantum Windows 8.1 with Office.\n\n
+        </string>
+
+    <string name="article_text_pembahasanindo">
+        \n Pembahasan Soal Bahasa Indonesia \n \n
+        1. Menurut KBBI, konversi adalah perubahan dari satu bentuk ke bentuk lain.\n
+            Mengonversikan artinya mengubah atau menukar.\n
+            Jadi, arti istilah dikonversi dalam paragraf tersebut adalah ditukar.\n\n
+        2. Menurut KBBI, pesat artinya cepat sekali, maju (berkembang) dengan cepat\n
+            Jadi, arti istilah pesat dalam paragraf tersebut adalah cepat.\n\n
+        3. Makna tersurat adalah makna terhadap sesuatu hal yang disampaikan secara jelas dan dapat dipahami sebagaimana adanya baik tertulis maupun diucapkan.\n
+            Jadi, makna tersurat paragraf di atas adalah pemberian pujian merupakan salah satu bentuk penghargaan dalam hidup bermasyarakat.\n\n
+        4. Makna tersurat adalah makna terhadap sesuatu hal yang disampaikan secara jelas dan dapat dipahami sebagaimana adanya baik tertulis maupun diucapkan.\n
+        Jadi, makna tersurat paragraf di atas adalah pada pilihan jawaban B.\n\n
+        5. Makna tersurat adalah makna terhadap sesuatu hal yang disampaikan secara jelas dan dapat dipahami sebagaimana adanya baik tertulis maupun diucapkan.\n
+        Makna tersurat dari kutipan cerpen di atas adalah Sasa tidak memiliki baju untuk ke pesta ulang tahun Reno. Bajunya sudah tidak muat lagi dipakai.\n\n
+        6. Struktur teks cerpen yaitu:\n
+        -Orientasi: tahap perkenalan\n
+        -Komplikasi: tahap permasalahan yang terjadi\n
+        -Resolusi: tahap penyelesaian masalah\n
+        Jadi, penggalan cerpen di atas merupakan bagian resolusi.\n\n
+        7. Kata ‘matahari yang mulai tenggelam” tersebut mengandung makna hari hampir malam.\n\n
+        8. Urutan pembuatan cilok yang tepat adalah (1) – (3) – (2) – (5) – (4) – (6)\n\n
+        9. Penggunaan kata hadir pada kalimat musim hujan sudah hadir tidak tepat, seharusnya musim hujan sudah tiba.\n\n
+        10. Penggunaan kata segala makanan tidak tepat seharusnya berbagai makanan.\n
+        </string>
+
+    <string name="article_text_tentang">
+
+        \nAplikasi Latihan dan Pembahasan Soal\n
+        Ujian Nasional SMP\n\n
+
+        Aplikasi dibuat oleh:\n
+        Nama : I Gusti Putu Rudi Pratama\n
+        Npm : 32115964\n
+        Mahasiswa Universitas Gunadarma\n
+        Jurusan Manajemen Informatika.\n
+        email : ngurahrudi@gmail.com\n\n
+
+        Download Aplikasi Kunjungi :\n
+        igprp2210.blogspot.com\n
+
+    </string>
+</resources>

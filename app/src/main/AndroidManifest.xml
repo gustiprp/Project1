@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.ya">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".menuawal">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".matematika" />
+        <activity android:name=".bahasaindonesia" />
+        <activity android:name=".bahasainggris" />
+        <activity android:name=".ipa" />
+        <activity android:name=".hasilskorbing" />
+        <activity android:name=".hasilskormtk" />
+        <activity android:name=".hasilskoripa" />
+        <activity android:name=".hasilskorbindo" />
+        <activity android:name=".depan" />
+        <activity android:name=".pembahasan" />
+        <activity android:name=".pemmtk1" />
+        <activity android:name=".pemipa" />
+        <activity android:name=".pembing1" />
+        <activity android:name=".pemindo" />
+        <activity android:name=".menubindo" />
+        <activity android:name=".menumtk" />
+        <activity android:name=".menuipa" />
+        <activity android:name=".ipa2" />
+        <activity android:name=".menubing" />
+        <activity android:name=".bahasainggris2" />
+        <activity android:name=".kuismtk2" />
+        <activity android:name=".KuisEssay" />
+        <activity android:name=".HasilSkoring" />
+        <activity android:name=".matematika2" />
+        <activity android:name=".pemmtk2" />
+        <activity android:name=".pemipa2" />
+        <activity android:name=".pemindo2" />
+        <activity android:name=".pembing2" />
+        <activity android:name=".tentang"></activity>
+    </application>
+
+</manifest>

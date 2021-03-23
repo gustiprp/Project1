@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8eaeff"
+    tools:context=".matematika2">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    <LinearLayout
+        android:id="@+id/lineSkor2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SKOR : "
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tvSkor2"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="22sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lineGambar"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_below="@id/lineSkor2"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/tvSoal2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"/>
+
+        <ImageView
+            android:id="@+id/ivGambar"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linePilihanJawaban"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="50dp">
+
+        <RadioGroup
+            android:id="@+id/rgPilihanJawaban"
+            android:layout_width="match_parent"
+            android:layout_below="@id/tvSoal2"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/rbPilihanJawaban1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textSize="18sp"/>
+
+            <RadioButton
+                android:id="@+id/rbPilihanJawaban2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textSize="18sp"/>
+
+            <RadioButton
+                android:id="@+id/rbPilihanJawaban3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textSize="18sp"/>
+            <RadioButton
+                android:id="@+id/rbPilihanJawaban4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textSize="18sp"/>
+        </RadioGroup>
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/btnSubmit2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/linePilihanJawaban"
+        android:layout_marginBottom="0dp"
+        android:text="SUBMIT"
+        android:background="#5f7dc9"/>
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

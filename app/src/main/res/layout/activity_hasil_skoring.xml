@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".HasilSkoring">
+
+    <ImageView
+        android:id="@+id/imageCongrats"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/cong"/>
+
+    <TextView
+        android:id="@+id/hasil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/nilai"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="Setiap jawaban yang benar di kali 10."
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvSkorAkhir"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageCongrats"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:background="#b5fffe"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="SKOR : 100"
+        android:textColor="#000"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnMenu"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp"
+        android:background="#f58686"
+        android:onClick="ulangi"
+        android:text="Ulangi Kuis"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnpembahasan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="63dp"
+        android:background="#f58686"
+        android:onClick="pemmtk1"
+        android:text="pembahasan"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="26dp"
+        android:background="#f58686"
+        android:onClick="menuawal"
+        android:text="HOME"
+        android:textSize="20sp" />
+
+</RelativeLayout>
